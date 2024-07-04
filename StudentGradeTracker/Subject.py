@@ -8,3 +8,6 @@ class Subject:
 
     def get_credit_hours(self):
         return self._credit_hrs
+
+    def __repr__(self):
+        return f"{self._name}:{self._credit_hrs}"

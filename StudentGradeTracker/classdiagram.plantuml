@@ -1,0 +1,5 @@
+@startuml StudentGradeTracker
+Term "1" o-- "many" Subject
+Term "1" o-- "1" Student
+Student *-- GPATracker
+@enduml

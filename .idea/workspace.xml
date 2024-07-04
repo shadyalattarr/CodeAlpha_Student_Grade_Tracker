@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4204bd0b-6975-4f5f-9b62-1daa7689379e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/StudentGradeTracker/Student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentGradeTracker/Subject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentGradeTracker/Term.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CodeAlpha_Student_Grade_Tracker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CodeAlpha_Student_Grade_Tracker.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentGradeTracker/GradeTracker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentGradeTracker/Grades.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentGradeTracker/Student.py" beforeDir="false" afterPath="$PROJECT_DIR$/StudentGradeTracker/Student.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentGradeTracker/Subject.py" beforeDir="false" afterPath="$PROJECT_DIR$/StudentGradeTracker/Subject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentGradeTracker/Term.py" beforeDir="false" afterPath="$PROJECT_DIR$/StudentGradeTracker/Term.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StudentGradeTracker/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/StudentGradeTracker/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +41,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.GradeTracker.executor": "Run",
+    "Python.Grades.executor": "Run",
+    "Python.Term.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -64,5 +68,16 @@
       <updated>1719496576753</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
