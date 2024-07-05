@@ -10,4 +10,4 @@ class Subject:
         return self._credit_hrs
 
     def __repr__(self):
-        return f"{self._name}:{self._credit_hrs}"
+        return f"{self._name} : {self._credit_hrs} hours"

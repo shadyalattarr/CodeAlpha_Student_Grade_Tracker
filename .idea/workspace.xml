@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4204bd0b-6975-4f5f-9b62-1daa7689379e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/StudentGradeTracker/GradeTracker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentGradeTracker/Grades.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentGradeTracker/GradeTracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/StudentGradeTracker/GradeTracker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentGradeTracker/Grades.py" beforeDir="false" afterPath="$PROJECT_DIR$/StudentGradeTracker/Grades.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StudentGradeTracker/Student.py" beforeDir="false" afterPath="$PROJECT_DIR$/StudentGradeTracker/Student.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StudentGradeTracker/Subject.py" beforeDir="false" afterPath="$PROJECT_DIR$/StudentGradeTracker/Subject.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StudentGradeTracker/Term.py" beforeDir="false" afterPath="$PROJECT_DIR$/StudentGradeTracker/Term.py" afterDir="false" />
@@ -39,18 +39,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.GradeTracker.executor": "Run",
-    "Python.Grades.executor": "Run",
-    "Python.Term.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/reda/Documents/CodeAlpha Internship/CodeAlpha-Pythn-1-Month/CodeAlpha_Hangman_Game"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.GradeTracker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Grades.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Term.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/reda/Documents/CodeAlpha Internship/CodeAlpha-Pythn-1-Month/CodeAlpha_Hangman_Game&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

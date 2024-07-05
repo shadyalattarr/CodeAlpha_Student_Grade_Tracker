@@ -10,7 +10,7 @@ class Term:
         self._term_credit_hrs = 0
         for subject in self._subjects.keys():
             self._term_credit_hrs += subject.get_credit_hours()
-        self._term_GPA = 0
+        self._term_GPA = 4
 
     def get_term_credit_hrs(self):
         return self._term_credit_hrs

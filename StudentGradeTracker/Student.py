@@ -6,9 +6,9 @@ from Term import Term
 
 class Student:
 
-    def __init__(self, name: str, ID: int):  # date?
+    def __init__(self, name: str, id: str):  # date?
         self._name = name
-        self._ID = ID
+        self._id = id
         self._CGPA = 4.0
         self._total_credit_hrs = 0
         self._current_term_number = -1
@@ -42,7 +42,15 @@ class Student:
         return self._current_term_number
 
     def get_student_information(self):
-        return f"{self._name}_{self._ID}"
+        return f"{self._name}_{self._id}"
 
     def __repr__(self):
-        return f"Student: {self._name} - {self._ID}"
+        student = f"Student: {self._name} - {self._id}\n"
+        for i in range(self.get_term_number()+1):
+            student += f"Term {i+1}\n"
+            term : Term = self.get_term_list()[i]
+            for subject,grade in term.get_subjects().items():
+                student += f"{subject}  :  {grade.name}\n"
+            student += f"Term GPA: {self.get_term_list()[i].get_term_GPA()}\n"
+        student += f"CGPA: {self.get_CGPA()}"
+        return student
